@@ -1,6 +1,8 @@
 package com.umar.apps.mockito.di;
 
-import org.junit.jupiter.api.BeforeAll;
+import com.umar.apps.PasswordEncoder;
+import com.umar.apps.UserRepository;
+import com.umar.apps.UserService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

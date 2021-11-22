@@ -1,6 +1,6 @@
 package com.umar.apps.mockito;
 
-import com.umar.apps.mockito.di.PasswordEncoder;
+import com.umar.apps.PasswordEncoder;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentMatcher;

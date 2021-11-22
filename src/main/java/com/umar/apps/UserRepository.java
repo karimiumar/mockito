@@ -1,4 +1,4 @@
-package com.umar.apps.mockito.di;
+package com.umar.apps;
 
 public interface UserRepository {
     User findById(String id);
